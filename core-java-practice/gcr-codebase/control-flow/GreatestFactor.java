@@ -1,0 +1,10 @@
+package leetcodeBase;
+
+public class GreatestFactor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

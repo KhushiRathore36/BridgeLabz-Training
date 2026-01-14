@@ -19,19 +19,19 @@
 
 **2.> Week-2: Starting withe basic java**
 
-&nbsp;     22-12-2025(Monday): Studied the study material of java strings and solved some problems related to the java strings.                                 
+      22-12-2025(Monday): Studied the study material of java strings and solved some problems related to the java strings.
 
-&nbsp;     23-12-2025(Tuesday): Submit the assignment related to the java strings. Here is the link of the current directory:-
+      23-12-2025(Tuesday): Submit the assignment related to the java strings. Here is the link of the current directory:-
 
-&nbsp;                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
+                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings
 
-&nbsp;     24-12-2025(Wednesday): Solved the level-1 and level-2 assignments related to the methods of java .
+      24-12-2025(Wednesday): Solved the level-1 and level-2 assignments related to the methods of java .
 
-&nbsp;     26-12-2025(Friday): Completed all the assignments related to the methods of java and also solved the extras question related to the strings and submitted on the GitHub. here is 
+      26-12-2025(Friday): Completed all the assignments related to the methods of java and also solved the extras question related to the strings and submitted on the GitHub. here is
 
-&nbsp;                           the link of it:- https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
+                            the link of it:- https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
 
-&nbsp;                           and link for extras:-https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
+                            and link for extras:-https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
 
 
 
@@ -39,53 +39,83 @@
 
 3.> Week-3:
 
-&nbsp;
+ 
 
-&nbsp;     29-12-2025(Monday): Solved extra questions related to the built-in function and scenario based problems along with employee wage computation problem. here is the link of it:-
+      29-12-2025(Monday): Solved extra questions related to the built-in function and scenario based problems along with employee wage computation problem. here is the link of it:-
 
-&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
+                                https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra
 
-&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+                                https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
-&nbsp;     30-12-2025(Tuesday): solved two scenario based questions which is line comparison and Snake ladder problems. then after working on scenario based i created a branch which is 
+      30-12-2025(Tuesday): solved two scenario based questions which is line comparison and Snake ladder problems. then after working on scenario based i created a branch which is
 
-&nbsp;                          oops-practice int which I solved the assignments related to the class and objects of java.
+                           oops-practice int which I solved the assignments related to the class and objects of java.
 
-&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+                                https://github.com/KhushiRathore36/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
-&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
+                                https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-object
 
 
 
-&nbsp;     31-12-2025(Wednesday): Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab on the oops-practice branch
+      31-12-2025(Wednesday): Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab on the oops-practice branch
 
-&nbsp;                                 https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
+                                  https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
 
-&nbsp;                                 https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance-variable
+                                  https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/instance-variable
 
-&nbsp;     1-01-2026(Thursday):  Submission of this, static, final key words and instanceof operator Level 1 Lab on the oops-practice branch. here is the link:
+      1-01-2026(Thursday):  Submission of this, static, final key words and instanceof operator Level 1 Lab on the oops-practice branch. here is the link:
 
-&nbsp;                                  https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof
+                                   https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof
 
-&nbsp;     2-01-2026(Friday): Submission of object modeling and class diagram assignment. here is the link in it:
+      2-01-2026(Friday): Submission of object modeling and class diagram assignment. here is the link in it:
 
-&nbsp;                                   https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/objectDiagram-sequenceDiagram-classDiagram
+                                    https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/objectDiagram-sequenceDiagram-classDiagram
 
-&nbsp;     3-01-2026(Saturday): submit the problem related to inheritance.
+      3-01-2026(Saturday): submit the problem related to inheritance.
 
-&nbsp;                            here is the link:-https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
+                             here is the link:-https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
 
 
 
 4.> week-4:
 
-&nbsp;      5-01-2026(Monday): submission of all scenario based questions on the oops-practice branch.
+       5-01-2026(Monday): Submission of all scenario based questions on the oops-practice branch.
 
-&nbsp;                           here is the link : https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+                            here is the link : https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
-&nbsp;                                   
+       6-01-2026(Tuesday): Submit the assignment related to the encapsulation, polymorphism ,here is the link:
+
+&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface
 
 
 
+&nbsp;      7-01-2026(Wednesday): Started with DSA(Data Structure and Algorithm) concept . Submitting two scenario based question. here is the link:
 
+&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/CabBooking/CabBooking
+
+&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBankingSystem/OnlineBankingSystem
+
+&nbsp;     
+
+&nbsp;      8-01-2026(Thursday): Study the material and Submitting the two problems related to the linked list. here is the link:
+
+&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
+
+&nbsp;      9-01-2026(Friday): solving three Scenario based related to the oops concept .here is the link of it:
+
+&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based 
+
+
+
+5.> week-5:
+
+&nbsp;       12-01-2026(Monday): Solving the assignments contains scenario based related to oops concept. and solving the two leetcode problems.here is the link of it:
+
+&nbsp;                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+
+&nbsp;       13-01-2026(Tuesday): Submitted the assignments and study the material related to the stack and queue. here is the link of it:
+
+&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+&nbsp;
 

@@ -1,3 +1,103 @@
+**## Repository Structure**
+
+**```text**
+
+**BridgeLabz-Training**
+
+**│**
+
+**├── core-java-practice    (branch \& folder)**
+
+**│   │**
+
+**│   ├── gcr-codebase**
+
+**│   |   ├── arrays**
+
+**│   │   ├── control-flow**
+
+**│   │   ├── extras**
+
+**│   │   ├── methods**
+
+**│   │   ├── programming-elements**
+
+**│   |   └── strings**
+
+**│   │**
+
+**│   ├── scenario-based**
+
+**│   │**
+
+**│   └── leet-code-codebase**
+
+**|**
+
+**├── oops-practice    (branch \& folder)**
+
+**│   │**
+
+**│   ├── gcr-codebase**
+
+**|   |   ├── access-modifier**
+
+**|   |   ├── class-object**
+
+**|   |   ├── constructor**
+
+**│   │   ├── inheritance**
+
+**│   │   ├── instance**
+
+**|   |   ├── object-modelling**
+
+**|   |   ├── oops-pillars**
+
+**│   │   └── static-this-final-instanceOf**
+
+**│   │**
+
+**│   ├── scenario-based**
+
+**│   │**
+
+**│   └── leet-code-codebase**
+
+**│**
+
+**├── dsa-practice    (branch \& folder)**
+
+**│   │**
+
+**│   ├── gcr-codebase**
+
+**|   |   ├── linked-list**
+
+**│   │**
+
+**│   ├── scenario-based**
+
+**│   │**
+
+**│   └── leet-code-codebase**
+
+**│**
+
+**├── reviews    (branch)**
+
+**```**
+
+
+
+
+
+
+
+
+
+
+
 **Daily Progress Log- BridgeLabz**
 
 *In this there is a information regarding my daily worked enclosed in an week wise pattern*
@@ -85,37 +185,37 @@
 
        6-01-2026(Tuesday): Submit the assignment related to the encapsulation, polymorphism ,here is the link:
 
-&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface
+                            https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-interface
 
 
 
-&nbsp;      7-01-2026(Wednesday): Started with DSA(Data Structure and Algorithm) concept . Submitting two scenario based question. here is the link:
+       7-01-2026(Wednesday): Started with DSA(Data Structure and Algorithm) concept . Submitting two scenario based question. here is the link:
 
-&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/CabBooking/CabBooking
+                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/CabBooking/CabBooking
 
-&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBankingSystem/OnlineBankingSystem
+                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/OnlineBankingSystem/OnlineBankingSystem
 
-&nbsp;     
+ 
 
-&nbsp;      8-01-2026(Thursday): Study the material and Submitting the two problems related to the linked list. here is the link:
+       8-01-2026(Thursday): Study the material and Submitting the two problems related to the linked list. here is the link:
 
-&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
+                            https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list
 
-&nbsp;      9-01-2026(Friday): solving three Scenario based related to the oops concept .here is the link of it:
+       9-01-2026(Friday): solving three Scenario based related to the oops concept .here is the link of it:
 
-&nbsp;                           https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based 
+                            https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
 
 
 5.> week-5:
 
-&nbsp;       12-01-2026(Monday): Solving the assignments contains scenario based related to oops concept. and solving the two leetcode problems.here is the link of it:
+        12-01-2026(Monday): Solving the assignments contains scenario based related to oops concept. and solving the two leetcode problems.here is the link of it:
 
-&nbsp;                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
+                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase
 
-&nbsp;       13-01-2026(Tuesday): Submitted the assignments and study the material related to the stack and queue. here is the link of it:
+        13-01-2026(Tuesday): Submitted the assignments and study the material related to the stack and queue. here is the link of it:
 
-&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+                                https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
-&nbsp;
+ 
 

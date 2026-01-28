@@ -217,5 +217,121 @@
 
                                 https://github.com/KhushiRathore36/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
 
- 
+        
+
+&nbsp;       14-01-2026(Wednesday):Studied the various types of sorting algorithm and applied these on the assignments related to the sorting algorithm. here is the link for the assignment is:
+
+&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithm
+
+
+
+&nbsp;       15-01-2026(Thursday): Studied the study material of the Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader and
+
+&nbsp;                             Solving the address book problems.
+
+&nbsp;  
+
+&nbsp;       16-01-2026(Friday):  Solving and Submitting the assignments of Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader.
+
+&nbsp;                            here is the link of the assignments is:https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/binarySerach
+
+&nbsp;                            https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/filereader
+
+&nbsp;                            https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stringBuilder-stringBuffer
+
+&nbsp;    
+
+&nbsp;       17-01-2026(Saturday):Studied and solved the assignments related to the Algorithm's Runtime Analysis \& Big-O Notation. Here is the link for the assignments is :
+
+&nbsp;                                 https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/complexity-comparison
+
+
+
+
+
+6.> week-6:
+
+&nbsp;     
+
+&nbsp;       19-01-2026(Monday):Studied and solving the java generics problems and solving two scenario based questions related to it oops concept and DSA .Here is the link of it:
+
+&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics
+
+
+
+&nbsp;       20-01-2026(Tuesday):Submission of scenario based questions related to the oops concept and DSA. Here is the link of it:
+
+&nbsp;                               https://github.com/KhushiRathore36/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based
+
+
+
+&nbsp;       21-01-2026(Wednesday):Studied the material related to the collections and solved it as a assignments. here is the link of it:
+
+&nbsp;                                 https://github.com/KhushiRathore36/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections
+
+
+
+&nbsp;       22-01-2026(Thursday):Studied the material of java streams, solving the scenario based questions.
+
+
+
+&nbsp;       23-01-2026(Friday):Study the material and solved the assignments related to the Exception. Here is the link for it:
+
+&nbsp;                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling
+
+
+
+
+
+
+
+7.> week-7:
+
+&nbsp;     
+
+&nbsp;      27-01-2026(Tuesday): Solved the scenario based related to the lexical twist. here is the link of it :
+
+&nbsp;                             https://github.com/KhushiRathore36/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java
+
+
+
+&nbsp;      28-01-2026(Wednesday):Solved and submit the solution scenario based related to the generics and collections based concept. here is the link of it:
+
+&nbsp;                              https://github.com/KhushiRathore36/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

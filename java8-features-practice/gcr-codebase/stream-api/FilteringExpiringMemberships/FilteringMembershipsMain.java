@@ -17,7 +17,8 @@ public class FilteringMembershipsMain {
      List<Member> expiringSoon = members.stream()
              .filter(m -> !m.getExpiryDate().isBefore(today)&& !m.getExpiryDate().isAfter(next30Days))
              .collect(Collectors.toList());
-     expiringSoon.forEach(System.out::println);
+     expiringSoon.forEach(item -> System.out.println(item));
+
  }
 }
 

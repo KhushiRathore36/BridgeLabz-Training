@@ -3,19 +3,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-<<<<<<<< HEAD:collections-practice/scenario-based/TestCase/pom.xml
-  <groupId>com.testCase</groupId>
-  <artifactId>TestCase</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
-  <name>TestCase</name>
-========
   <groupId>com.student</groupId>
   <artifactId>jsondemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>jsondemo</name>
->>>>>>>> io-programming-practice:io-programming-practice/gcr-codebase/jsondemo/pom.xml
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
